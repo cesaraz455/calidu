@@ -1,0 +1,72 @@
+[
+    {
+        "id": "87wqdy8wety238232wd23e",
+        "name": "Programación orientada a objetos",
+        "startTime": "2024-10-30T60:00-05:00",
+        "endTime": "2024-10-30T20:00-05:00",
+        "location": "Edificio Euler Sala 403",
+        "group": "Grupo 1",
+        "teacherName": "José Luis González Díaz",
+        "studentCount": 15
+    },
+    {
+        "id": "'21398e32789eyh3178eyh",
+        "name": "Pensamiento algorítmico",
+        "startTime": "2024-10-30T20:00-05:00",
+        "endTime": "2024-10-30T22:00-05:00",
+        "location": "Edificio Euler Sala 501",
+        "group": "Grupo 2",
+        "teacherName": "Alberto Jiménez",
+        "studentCount": 25
+    },
+    {
+        "id": "we978d089dyhwq097yhrd32",
+        "name": "Pensamiento sistémico",
+        "startTime": "2024-10-31T14:00-05:00",
+        "endTime": "2024-10-31T16:00-05:00",
+        "location": "Edificio Euler Sala 501",
+        "group": "Grupo 1",
+        "teacherName": "Alberto Jiménez",
+        "studentCount": 25
+    },
+    {
+        "id": "wer688we6trwer68tr86twe",
+        "name": "Estructura de datos",
+        "startTime": "2024-10-31T16:00-05:00",
+        "endTime": "2024-10-31T18:00-05:00",
+        "location": "Torre Note Sala 3",
+        "group": "Grupo 2B",
+        "teacherName": "Maria Eugenia García",
+        "studentCount": 18
+    },
+    {
+        "id": "8wer7yer87tywer68twerwer",
+        "name": "Programación orientada a objetos",
+        "startTime": "2024-10-31T18:00-05:00",
+        "endTime": "2024-10-31T20:00-05:00",
+        "location": "Edificio Euler Sala 403",
+        "group": "Grupo General",
+        "teacherName": "José Luis González Díaz",
+        "studentCount": 25
+    },
+    {
+        "id": "23874y623847y21837y21",
+        "name": "Estructura de datos",
+        "startTime": "2024-10-31T16:00-05:00",
+        "endTime": "2024-10-31T18:00-05:00",
+        "location": "Torre Note Sala 3",
+        "group": "Grupo 2B",
+        "teacherName": "Maria Eugenia García",
+        "studentCount": 18
+    },
+    {
+        "id": "463t24236t4736t47923434623",
+        "name": "Programación orientada a objetos",
+        "startTime": "2024-10-31T18:00-05:00",
+        "endTime": "2024-10-31T20:00-05:00",
+        "location": "Edificio Euler Sala 403",
+        "group": "Grupo General",
+        "teacherName": "José Luis González Díaz",
+        "studentCount": 25
+    }
+]
